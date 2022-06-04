@@ -35,3 +35,4 @@ This will work like a social media app with:
 
 Users will also be able to publish their whole calendar for others to see,
 and other users will be able to see the comments on each day
+
